@@ -1,0 +1,8 @@
+## Interface: 11307
+## Version: @project-version@
+## Title: BugSack Restore Alt-Click
+## Notes: Restore alt-click wipe.
+## Author: pngmn
+## RequiredDeps: BugSack
+
+core.lua
