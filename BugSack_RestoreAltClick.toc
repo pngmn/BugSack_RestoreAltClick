@@ -1,4 +1,6 @@
 ## Interface: 90100
+## Interface-Classic: 11307
+## Interface-BCC: 20502
 ## Version: @project-version@
 ## Title: BugSack Restore Alt-Click
 ## Notes: Restore alt-click wipe.
